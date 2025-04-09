@@ -10,5 +10,5 @@ form.addEventListener('submit',(e)=>{
 	let phone = p.value;
 	let email = e.value;
 	
-	alert(`First Name:${first} Last Name:${last} Phone Number:${phone} Email ID:${email}`);
+	alert(`First Name: ${first} Last Name: ${last} Phone Number: ${phone} Email ID: ${email}`);
 })
